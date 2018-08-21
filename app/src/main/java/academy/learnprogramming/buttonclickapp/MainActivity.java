@@ -15,7 +15,8 @@ public class MainActivity extends AppCompatActivity {
     private TextView textView = null;
     private static final String TAG = "MainActivity";
     private String TEXT_CONTENTS;
-
+    
+    // created to test pull
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         Log.d(TAG, "onCreate: in");
