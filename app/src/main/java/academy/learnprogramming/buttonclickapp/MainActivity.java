@@ -17,6 +17,7 @@ public class MainActivity extends AppCompatActivity {
     private String TEXT_CONTENTS;
     
     // created to test pull
+    // created to test push
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         Log.d(TAG, "onCreate: in");
